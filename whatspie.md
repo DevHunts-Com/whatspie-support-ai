@@ -16,19 +16,74 @@ Berikut ini adalah dokumentasi yang berisi informasi-informasi penting seputar a
 Whatspie adalah aplikasi yang menyediakan API WhatsApp Unofficial yang padat di gunakan oleh pengguna yang menggunakan whatsapp bussiness maupun whatsapp biasa. Whatspie dirancang untuk memberikan akses mudah dan sederhana bagi pengguna yang ingin memanfaatkan fitur WhatsApp tanpa harus memiliki akun API bisnis resmi. Whatspie hadir untuk menyederhanakan pengalaman Anda dalam menggunakan layanan WhatsApp untuk kebutuhan pribadi atau bisnis Anda.
 
 ## Fitur Whatspie
-TBD
+Whatspie menawarkan berbagai fitur canggih untuk meningkatkan efisiensi komunikasi melalui WhatsApp. Berikut adalah beberapa fitur utama yang disediakan oleh Whatspie:
+- Multiple Devices: Anda dapat menambahkan beberapa perangkat dalam satu akun.
+- Cepat Dan Aman: Menggunakan Whatspie pesan Anda akan diterima dalam hitungan detik.
+- Integrasi Webhook: dengan webhook Anda akan dapat menerima pesan masuk ke nomor Anda.
+- Status Pengiriman: Pantau pesan Anda dengan fungsi status pengiriman.
+- Akses API: Whatspie API mudah digunakan dan dapat diakses oleh semua orang.
+- Mengirim Media: Memungkinkan Anda mengirim file media seperti Gambar, PDF, atau dokumen lainnya.
+
+## Fitur Team Chat
+Team chat adalah sebuah fitur CRM (Customer Relationship Management) yang kami sediakan di platform Whatspie. Pada team chat kami menyediakan beberapa firut atau tools yang dapat anda manfaatkan ketika anda menggunakan team chat. Dan berikut adalah daftarnya.
+- Chat: Fitur ini memudahkan anda untuk berinteraksi dengan beberapa pesan sekaligus dari berbagai channel yang sudah terdaftar dalam satu halaman.
+- Contact: Fitur ini memungkinkan anda untuk menyimpan data customer seperti nomor telpon, nama perusahaaan, email, nama lengkap dan informasi lainnya yang penting untuk anda simpan.
+- Supervisor Tools: Ini adalah fitur yang kami khususkan untuk pengguna supervisor, tujuan inti dari fitur ini adalah agar pengguna supervisor dapan melihat performa dan juga kinerja dari setiap pengguna customer service saat berinteraksi dengan customer.
 
 ## Cara Menggunakan Whatspie
-TBD
+Whatspie adalah alat yang memungkinkan Anda untuk mengelola komunikasi WhatsApp dengan lebih efisien. Sebelum dapat menggunakan Whatspie, Anda harus melakukan registrasi terlebih dahulu. Berikut adalah panduan langkah demi langkah untuk melakukan registrasi di Whatspie.
+- Kunjungi Situs Whatspie: Buka browser Anda dan kunjungi situs resmi Whatspie, atau bisa juga dengan mengklik tautan berikut https://app.whatspie.com/.
+- Klik Tombol Registrasi: Di halaman utama, cari dan klik tombol 'Create One'.
+- Isi Formulir Pendaftaran: Setelah melakukan klik pada tombol tersebut anda akan diarahkan ke halaman pendaftaran. Isi formulir dengan informasi yang diperlukan seperti nama lengkap, alamat email, kata sandi, dan juga beberapa informasi lain yang diminta pada formulir tersebut.
+- Verifikasi Email: Setelah mengisi formulir, Anda akan menerima email verifikasi.
+
+Langkah-langkah tersebut akan membawa anda ke halaman Dashboard whatspie yang menendakan bahwa anda sudah dapat menggunakan semua fitur yang tersedia.
 
 ## Harga
-TBD
+Whatspie menawarkan beberapa paket yang dirancang untuk memenuhi berbagai kebutuhan pengguna, mulai dari individu hingga bisnis dengan kebutuhan komunikasi yang besar. Berikut adalah rincian harga dan fitur dari setiap paket yang tersedia:
+- Paket Beta Tester - IDR 0k: Paket ini tersedia secara gratis dan memungkinkan pengguna untuk mengirim hingga 250 pesan. Namun, perlu diingat bahwa paket ini hanya berlaku selama 1 minggu setelah aktivasi. Paket Beta Tester ini sangat cocok bagi mereka yang ingin mencoba layanan Whatspie sebelum berkomitmen pada paket berbayar.
+- Paket Starter - IDR 60k: Dengan biaya IDR 60k, paket ini memberikan batas pengiriman hingga 10.000 pesan. Paket ini dirancang untuk pengguna yang perlu mengirim pesan dalam jumlah banyak namun tetap dalam skala terjangkau. Ini adalah pilihan yang tepat bagi individu atau usaha kecil yang baru memulai dan membutuhkan komunikasi yang efisien dengan pelanggan mereka.
+- Paket Business - IDR 160k: Paket Bisnis menawarkan batas pengiriman hingga 500.000 pesan dengan biaya IDR 160k. Paket ini cocok untuk bisnis yang memiliki kebutuhan komunikasi yang lebih besar dan terus berkembang. Dengan kapasitas yang lebih tinggi, bisnis dapat memastikan bahwa semua pesan penting dapat terkirim tanpa hambatan.
+- Paket StartUp - IDR 240k: Untuk bisnis yang menginginkan fleksibilitas tanpa batasan kuantitas dalam mengirimkan pesan, Paket StartUp adalah pilihan ideal. Dengan biaya IDR 240k, paket ini menawarkan pengiriman pesan tanpa batasan tertentu. Ini memungkinkan bisnis untuk berkomunikasi secara luas dan bebas dengan pelanggan mereka tanpa khawatir tentang batas pengiriman.
+
+Setiap paket yang ditawarkan oleh Whatspie dirancang untuk memberikan fleksibilitas dan efisiensi sesuai dengan kebutuhan komunikasi pengguna, baik itu individu, usaha kecil, maupun bisnis besar. Untuk informasi lebih lanjut tentang harga ini, anda bisa mengunjunginya [disini](https://whatspie.com/pricing/)
+
 
 ## Pembayaran
-TBD
+Whatspie menyediakan berbagai metode pembayaran untuk memudahkan pengguna dalam melakukan transaksi. Berikut adalah daftar metode pembayaran yang tersedia di Whatspie:
+- Bank Transfer
+  - Permata Virtual Account
+  - BRI Virtual Account
+  - BCA Virtual Account
+  - Other Bank Transfer
+- Cardless Credit
+  - Akulaku
+  - Kredivo
+- Credit Card
+  - Visa
+- Crypto
+  - Bitcoin
+  - Ethereum
+  - USDT
+  - USDC
+- Cstore
+  - Indomaret
+  - Alfamart
+- Direct Debit
+  - BCA KlikPay
+  - KlikBCA
+  - BRImo
+  - CIMB Clicks
+  - Danamon Online Banking
+  - UOB Ezpay
+- E-Wallet
+  - GoPay
+  - ShopeePay
+  - PayPal
 
+Dengan berbagai pilihan metode pembayaran ini, pengguna dapat memilih opsi yang paling sesuai dan nyaman untuk mereka. Whatspie memastikan proses pembayaran berjalan lancar dan aman, sehingga pengguna dapat fokus pada penggunaan layanan tanpa perlu khawatir tentang transaksi keuangan.
 ## Lisensi
-TBD
+Lihat ketentuan yang kami tetapkan pada tautan berikut https://whatspie.com/privacy-policy/
 
 ## Dokumentasi
 Dokumentasi API tersedia lengkap di [sini](https://docs.whatspie.com)
@@ -74,13 +129,13 @@ Ya, Whatspie memiliki batasan atau batasan pengiriman pesan, tergantung paket ya
   1. Paket Beta Tester: Memiliki batas pengiriman 250 pesan, namun hanya berlaku selama 1 minggu setelah aktivasi.
   2. Paket Pemula: Memberikan batas pengiriman 10.000 pesan. Paket ini cocok bagi pengguna yang perlu mengirim pesan dalam jumlah banyak namun tetap dalam skala terjangkau.
   3. Paket Bisnis: Memberikan batas pengiriman hingga 500.000 pesan. Cocok untuk bisnis yang memiliki kebutuhan komunikasi yang lebih besar dan terus berkembang.
-  4. Paket StartUp: Menawarkan pengiriman pesan tanpa batasan tertentu. Paket ini cocok untuk bisnis yang menginginkan fleksibilitas tanpa batasan kuantitas dalam mengirimkan   pesan.
+  4. Paket StartUp: Menawarkan pengiriman pesan tanpa batasan tertentu. Paket ini cocok untuk bisnis yang menginginkan fleksibilitas tanpa batasan kuantitas dalam mengirimkan pesan.
 
 Dengan berbagai pilihan paket, Whatspie berupaya memberikan solusi yang sesuai dengan kebutuhan dan skala pengguna. Pengguna dapat memilih paket yang paling sesuai dengan kebutuhan komunikasinya, baik untuk skala kecil maupun besar. Kunjungi halaman https://whatspie.com/pricing/ untuk melihat berbagai paket yang kami sediakan.
-### Bagaimana cara saya membayar faktur?
+### Bagaimana cara saya membayar invoice?
 Pembayaran invoice di Whatspie sangat mudah. Berikut langkah-langkah yang dapat Anda ikuti untuk melakukan pembayaran invoice:
-- Akses Halaman Faktur: Pertama-tama, Anda perlu mengakses halaman faktur yang terletak di sidebar akun Anda. Ini memungkinkan Anda melihat semua faktur yang terkait dengan layanan Whatspie Anda. Dengan mengakses halaman ini, Anda dapat melihat detail invoice yang ingin Anda bayarkan.
-- Pilih Faktur yang Akan Dibayar: Setelah mengakses halaman faktur, Anda dapat menemukan daftar faktur yang tersedia. Klik tombol "lihat faktur" pada faktur yang ingin Anda bayar. Ini akan membuka halaman detail faktur tersebut, memungkinkan Anda melihat informasi lebih lengkap.
+- Akses Halaman Invoice: Pertama-tama, Anda perlu mengakses halaman invoice yang terletak di sidebar akun Anda. Ini memungkinkan Anda melihat semua invoice yang terkait dengan layanan Whatspie Anda. Dengan mengakses halaman ini, Anda dapat melihat detail invoice yang ingin Anda bayarkan.
+- Pilih invoice yang Akan Dibayar: Setelah mengakses halaman invoice, Anda dapat menemukan daftar invoice yang tersedia. Klik tombol "lihat invoice" pada invoice yang ingin Anda bayar. Ini akan membuka halaman detail invoice tersebut, memungkinkan Anda melihat informasi lebih lengkap.
 - Pilih Metode Pembayaran: Selanjutnya, Anda perlu memilih metode pembayaran yang Anda inginkan. Klik tombol "pilih metode pembayaran" untuk melihat pilihan metode pembayaran yang tersedia. Anda dapat memilih metode pembayaran yang paling sesuai dengan preferensi dan kebutuhan Anda.
 - Lakukan Pembayaran: Setelah Anda memilih metode pembayaran, Anda dapat langsung melanjutkan proses pembayaran dengan menekan tombol "bayar". Ini akan mengarahkan Anda ke halaman pembayaran sesuai dengan metode yang Anda pilih. Ikuti instruksi yang diberikan untuk menyelesaikan pembayaran dengan sukses.
 Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah membayar tagihan Whatspie Anda dan memastikan kelancaran penggunaan layanan sesuai dengan perjanjian yang telah disepakati.
@@ -88,8 +143,8 @@ Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah membayar tagih
 Untuk menggunakan PayPal sebagai metode pembayaran, langkahnya cukup sederhana. Pertama, pilih invoice yang ingin dibayar, lalu tentukan metode pembayarannya. Di sini, Anda akan menemukan opsi untuk memilih PayPal sebagai metode pembayaran, yang biasanya terletak di bagian e-Wallet. Setelah Anda memilih PayPal, Anda akan diarahkan ke halaman PayPal untuk melakukan pembayaran. Pastikan untuk login terlebih dahulu ke akun PayPal Anda agar proses transaksi lancar. Setelah itu, Anda bisa langsung membayar invoice tersebut dengan memilih saldo PayPal Anda sebagai sumber pembayaran, lalu klik "lanjutkan untuk memeriksa pesanan". Dengan begitu, pembayaran Anda menggunakan PayPal telah berhasil dilakukan.
 ### Bagaimana Cara Membayar dengan Kripto?
 Untuk menggunakan kripto sebagai metode pembayaran, Anda dapat mengikuti langkah-langkah berikut:
-- Pilih Faktur dan Metode Pembayaran
-  - Pertama, pilih faktur yang ingin Anda bayar di platform kami.
+- Pilih invoice dan Metode Pembayaran
+  - Pertama, pilih invoice yang ingin Anda bayar di platform kami.
   - Pilih opsi metode pembayaran dan pilih “crypto” sebagai pilihan Anda.
   - Kami menyediakan beberapa kripto yang dapat Anda gunakan, seperti Bitcoin, Ethereum, USDT, dan USDC.
 - Proses pembayaran
