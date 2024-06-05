@@ -12,6 +12,8 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from pydantic import BaseModel
+from langchain_community.embeddings import GPT4AllEmbeddings
+from langchain_community.document_loaders import UnstructuredMarkdownLoader
 
 load_dotenv()
 
@@ -19,7 +21,7 @@ api_key = os.getenv("GOOGLE_API_KEY")
 model = ChatGoogleGenerativeAI(model="gemini-1.5-flash", api_key=api_key)
 
 # Text loader
-loader = TextLoader("./whatspie.md")
+loader = UnstructuredMarkdownLoader("./whatspie.md")
 documents = loader.load()
 
 # Split into chunks
@@ -27,7 +29,7 @@ text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=0)
 docs = text_splitter.split_documents(documents)
 
 # Create the embedding function
-embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+embedding_function = GPT4AllEmbeddings(model_name="all-MiniLM-L6-v2.gguf2.f16.gguf")
 
 # Load into Chroma
 db = Chroma.from_documents(docs, embedding_function)
