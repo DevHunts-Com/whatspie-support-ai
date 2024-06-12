@@ -41,7 +41,7 @@ Langkah-langkah tersebut akan membawa anda ke halaman Dashboard whatspie yang me
 
 ## Harga
 Whatspie menawarkan beberapa paket yang dirancang untuk memenuhi berbagai kebutuhan pengguna, mulai dari individu hingga bisnis dengan kebutuhan komunikasi yang besar. Berikut adalah rincian harga dan fitur dari setiap paket yang tersedia:
-- Paket Beta Tester - IDR 0k: Paket ini tersedia secara gratis dan memungkinkan pengguna untuk mengirim hingga 250 pesan. Namun, perlu diingat bahwa paket ini hanya berlaku selama 1 minggu setelah aktivasi. Paket Beta Tester ini sangat cocok bagi mereka yang ingin mencoba layanan Whatspie sebelum berkomitmen pada paket berbayar.
+- Paket Beta Tester - IDR 0k: Paket ini tersedia secara gratis dan memungkinkan pengguna untuk mengirim hingga 250 pesan. Namun, perlu diingat bahwa paket ini hanya berlaku selama 1 minggu setelah aktivasi dan setiap pengguna hanya dapat menggunakan paket ini satu kali saja. Paket Beta Tester ini sangat cocok bagi mereka yang ingin mencoba layanan Whatspie sebelum berkomitmen pada paket berbayar.
 - Paket Starter - IDR 60k: Dengan biaya IDR 60k, paket ini memberikan batas pengiriman hingga 10.000 pesan. Paket ini dirancang untuk pengguna yang perlu mengirim pesan dalam jumlah banyak namun tetap dalam skala terjangkau. Ini adalah pilihan yang tepat bagi individu atau usaha kecil yang baru memulai dan membutuhkan komunikasi yang efisien dengan pelanggan mereka.
 - Paket Business - IDR 160k: Paket Bisnis menawarkan batas pengiriman hingga 500.000 pesan dengan biaya IDR 160k. Paket ini cocok untuk bisnis yang memiliki kebutuhan komunikasi yang lebih besar dan terus berkembang. Dengan kapasitas yang lebih tinggi, bisnis dapat memastikan bahwa semua pesan penting dapat terkirim tanpa hambatan.
 - Paket StartUp - IDR 240k: Untuk bisnis yang menginginkan fleksibilitas tanpa batasan kuantitas dalam mengirimkan pesan, Paket StartUp adalah pilihan ideal. Dengan biaya IDR 240k, paket ini menawarkan pengiriman pesan tanpa batasan tertentu. Ini memungkinkan bisnis untuk berkomunikasi secara luas dan bebas dengan pelanggan mereka tanpa khawatir tentang batas pengiriman.
@@ -86,7 +86,7 @@ Dengan berbagai pilihan metode pembayaran ini, pengguna dapat memilih opsi yang 
 Lihat ketentuan yang kami tetapkan pada tautan berikut https://whatspie.com/privacy-policy/
 
 ## Dokumentasi
-Dokumentasi API tersedia lengkap di [sini](https://docs.whatspie.com)
+Dokumentasi API tersedia lengkap [disini](https://docs.whatspie.com)
 
 ## Support
 Untuk menghubungi tim support atau customer service kami (CS) kamu dapat menghubunginya via WhatsApp di link berikut https://api.whatsapp.com/send?phone=6281563655211&text=Hi,%20i%20want%20to%20ask&source=&data=
@@ -205,6 +205,24 @@ Melakukan upgrade perangkat Anda sangat mudah jika Anda mengikuti panduan langka
 - Pada bagian dropdown, silakan pilih paket yang Anda perlukan. Pastikan Anda memilih paket yang sesuai dengan kebutuhan agar perangkat Anda dapat berfungsi maksimal. Setelah memilih paket yang diinginkan, klik tombol "simpan perubahan". Langkah ini akan menghasilkan invoice yang harus Anda lengkapi.
 - Terakhir, setelah Anda menerima invoice, Anda hanya perlu membayar invoice tersebut. Proses pembayaran ini sangat penting untuk menyelesaikan proses upgrade. Setelah pembayaran selesai, perangkat Anda akan secara otomatis ditingkatkan sesuai dengan paket yang Anda pilih.
 Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah melakukan upgrade dan memastikan perangkat Anda selalu dalam kondisi terbaik.
+### Bagaimana Cara Membuat Invoice Perpanjangan Device untuk Beberapa Bulan ke Depan?
+Untuk membuat invoice device untuk beberapa bulan ke depan dengan mudah, Anda dapat menggunakan fitur Renewall. Berikut adalah langkah-langkahnya:
+- Kunjungi Menu Renewall.
+- Pilih Perangkat yang Ingin Dibayar di dropdown.
+- Pilih Periode. Setelah menetapkan perangkat yang ingin di bayar selanjutnya adalah pilihlah periode masa berlaku yang Anda inginkan untuk perangkat tersebut. Anda akan diberikan pilihan antara 1, 3, 6, atau 12 bulan. Pilihlah opsi yang sesuai dengan kebutuhan Anda.
+
+Setelah Anda memilih jumlah bulan yang diinginkan, invoice untuk perpanjangan masa berlaku perangkat akan disiapkan secara otomatis. Anda dapat melihat detail invoice dan siap untuk membayarnya sesuai dengan instruksi yang diberikan.
+### Dimana Saya Bisa Mendapatkan API Key?
+Anda bisa menemukan API Key anda pada halaman Pengaturan Profil.
+### Apa Itu Fitur Reseller?
+Fitur Reseller pada aplikasi Whatspie adalah sebuah layanan khusus yang dirancang untuk memberikan berbagai keuntungan bagi pengguna yang ingin menjadi mitra reseller. Dengan fitur ini, pengguna akan mendapatkan beberapa keuntungan berikut:
+- Harga Spesial. Pengguna reseller akan mendapat harga yang lebih murah dibandingkan harga reguler, sehingga bisa menghemat biaya dan meningkatkan margin keuntungan.
+- Fitur Topup. selain mendapat harga yang lebih murah, pengguna reseller juga berhak menggunakan fitur topup. Fitur topup ini dibuat untuk mempermudah pengguna untuk mempermudal dalam transaksi.
+- kebijakan OTP. Pengguna reseller tidak perlu lagi memasukkan kode OTP saat menambahkan perangkat baru, yang memungkinkan pengelolaan lebih banyak perangkat secara simultan.
+### Bagaimana Cara Menjadi Reseller?
+Untuk menjadi reseller Whatspie, ada beberapa langkah yang perlu Anda ikuti. Pertama, pastikan Anda memiliki minimal lima perangkat yang aktif dalam satu bulan terakhir. Setelah Anda memenuhi persyaratan ini, langkah berikutnya adalah membuat pengajuan menjadi reseller. Kami akan melakukan beberapa review terhadap akun yang telah Anda informasikan. Proses review ini bertujuan untuk memastikan bahwa akun Anda memenuhi semua kriteria yang diperlukan untuk menjadi reseller. Jika akun Anda lolos dari review kami, kami dengan senang hati akan menyambut Anda sebagai reseller Whatspie. Selamat bergabung dan nikmati semua keuntungan eksklusif yang kami tawarkan!
+### Bagaimana Cara Mengamankan Akun Saya?
+Untuk memastikan keamanan akses Anda, kami menerapkan fitur Otentikasi Dua Faktor (2FA). Fitur ini memperkuat keamanan dengan meminta dua metode verifikasi untuk memastikan identitas Anda. Dengan Otentikasi Dua Faktor, Anda dilindungi dari serangan phishing, rekayasa sosial, dan upaya bruteforce terhadap kata sandi. Hal ini juga melindungi login Anda dari penyerang yang mencoba memanfaatkan kredensial yang lemah atau dicuri. Dengan memanfaatkan fitur ini, Anda dapat yakin bahwa akun Anda aman dan terlindungi saat menggunakan layanan kami. Anda dapat menemukan fitur ini di Pengaturan Profil > Keamanan.
 ### Bagaimana Cara Membuat Akun Team Chat?
 Untuk dapat menggunakan fitur team chat, Anda perlu mengikuti beberapa langkah sederhana. Langkah-langkah ini akan memandu Anda dalam mempersiapkan semua yang diperlukan agar Anda dapat segera berkomunikasi dengan tim Anda melalui platform team chat. Berikut adalah langkah-langkah yang harus Anda ikuti:
 - Pertama, pastikan Anda sudah memiliki departemen yang terdaftar di sistem. Departemen ini penting untuk mengorganisir tim Anda dan memastikan setiap anggota memiliki peran dan tanggung jawab yang jelas. Jika Anda belum memiliki departemen, Anda bisa membuatnya di halaman "Departement". Di sana, Anda dapat mengisi informasi yang diperlukan untuk mendirikan departemen baru. Informasi ini biasanya mencakup nama departemen, deskripsi, dan anggota yang akan bergabung dalam departemen tersebut.
